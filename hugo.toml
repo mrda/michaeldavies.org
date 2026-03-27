@@ -1,0 +1,4 @@
+baseURL = 'https://michaeldavies.org/'
+locale = 'en-us'
+title = 'Hopes, dreams, thoughts'
+theme = 'pehtheme'
